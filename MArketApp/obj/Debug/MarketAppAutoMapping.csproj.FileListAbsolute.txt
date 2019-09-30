@@ -1,0 +1,15 @@
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\MArketApp.exe.config
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\MArketApp.exe
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\MArketApp.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\FluentNHibernate.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\Iesi.Collections.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\NHibernate.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\FluentNHibernate.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\FluentNHibernate.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\Iesi.Collections.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\NHibernate.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\obj\Debug\MarketAppAutoMapping.csprojResolveAssemblyReference.cache
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\obj\Debug\MArketApp.exe
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\obj\Debug\MArketApp.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\MarketAppClasses.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MArketApp\bin\Debug\MarketAppClasses.pdb

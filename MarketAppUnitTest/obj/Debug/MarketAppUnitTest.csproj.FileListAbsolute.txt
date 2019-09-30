@@ -1,0 +1,16 @@
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\obj\Debug\MarketAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MarketAppUnitTest.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MarketAppUnitTest.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\Iesi.Collections.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MArketApp.exe
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MarketAppClasses.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\NHibernate.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\FluentNHibernate.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MarketAppClasses.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\MArketApp.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\Iesi.Collections.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\NHibernate.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\FluentNHibernate.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\bin\Debug\FluentNHibernate.xml
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\obj\Debug\MarketAppUnitTest.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppUnitTest\obj\Debug\MarketAppUnitTest.pdb

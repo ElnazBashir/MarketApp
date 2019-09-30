@@ -1,0 +1,7 @@
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\bin\Debug\MarketApp.services.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\bin\Debug\MarketApp.services.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\obj\Debug\MarketApp.services.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\obj\Debug\MarketApp.services.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\bin\Debug\MarketAppClasses.dll
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\bin\Debug\MarketAppClasses.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketApp.services\obj\Debug\MarketApp.services.csprojResolveAssemblyReference.cache

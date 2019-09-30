@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketAppAutoMapping", "MArketApp\MarketAppAutoMapping.csproj", "{C20215B9-CEE7-44F5-876C-9EA2A988C273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketAppClasses", "MarketAppClasses\MarketAppClasses.csproj", "{D92AC9C6-26B7-455F-B6FC-D28F32B25447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketAppUnitTest", "MarketAppUnitTest\MarketAppUnitTest.csproj", "{CF031F60-DF8D-4B33-AC1F-E6E038E8943A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketApp.services", "MarketApp.services\MarketApp.services.csproj", "{24FE8187-0DE1-4F21-8C4D-A08ABF980B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20215B9-CEE7-44F5-876C-9EA2A988C273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20215B9-CEE7-44F5-876C-9EA2A988C273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20215B9-CEE7-44F5-876C-9EA2A988C273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20215B9-CEE7-44F5-876C-9EA2A988C273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92AC9C6-26B7-455F-B6FC-D28F32B25447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92AC9C6-26B7-455F-B6FC-D28F32B25447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92AC9C6-26B7-455F-B6FC-D28F32B25447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92AC9C6-26B7-455F-B6FC-D28F32B25447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF031F60-DF8D-4B33-AC1F-E6E038E8943A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF031F60-DF8D-4B33-AC1F-E6E038E8943A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF031F60-DF8D-4B33-AC1F-E6E038E8943A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF031F60-DF8D-4B33-AC1F-E6E038E8943A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FE8187-0DE1-4F21-8C4D-A08ABF980B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FE8187-0DE1-4F21-8C4D-A08ABF980B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FE8187-0DE1-4F21-8C4D-A08ABF980B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FE8187-0DE1-4F21-8C4D-A08ABF980B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\bin\Debug\MarketAppEntities.exe.config
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\bin\Debug\MarketAppEntities.exe
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\bin\Debug\MarketAppEntities.pdb
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\obj\Debug\MarketAppEntities.csprojResolveAssemblyReference.cache
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\obj\Debug\MarketAppEntities.exe
+C:\Users\e.bashir\Desktop\mMarketAppv3\MArketApp\MarketAppEntities\obj\Debug\MarketAppEntities.pdb
